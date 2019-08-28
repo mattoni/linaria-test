@@ -15,7 +15,7 @@ module.exports = {
       tsIdx + 1,
       0,
       css({
-        output: 'styles.css',
+        output: 'dist/css/styles.css',
       })
     );
 
